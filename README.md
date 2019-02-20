@@ -9,4 +9,4 @@ composer require pagseguro/pagseguro-php-sdk
 
 # Desenvolvedor
 Allan Lima
-<contato@allanlima.com
+<contato@allanlima.com>
