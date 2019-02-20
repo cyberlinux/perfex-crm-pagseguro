@@ -2,7 +2,7 @@
 Plugin de integração com o PagSeguro para o Perfex CRM
 
 # Instalação
-Utilizando o Composer, dentro do diretório applications do sistema:
+Utilizando o Composer, dentro do diretório application do sistema:
 ```
 composer require pagseguro/pagseguro-php-sdk
 ```
